@@ -20,9 +20,9 @@ const CONFIG_PATH = fs.existsSync(HF_DATA_DIR)
 console.log(`[CONFIG] 📂 Config path: ${CONFIG_PATH}`);
 
 const DEFAULT_CONFIG = {
-  host: 'play.example.com',
-  port: 25565,
-  username: 'BotTreoServer',
+  host: 'epicvoidsmp.aternos.me',
+  port: 16447,
+  username: '____^_^____',
   version: '1.21.1',
   auth: 'offline',
   reconnectDelay: 30_000,
